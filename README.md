@@ -33,3 +33,5 @@ In the "frontend" terminal, run:
 npm run dev
 
 The frontend will start on port 3000. Now open http://localhost:3000 in your browser to use the app.
+
+https://github.com/user-attachments/assets/4dba18dc-3cd1-4bbe-a6ce-f0fb3bca0613
